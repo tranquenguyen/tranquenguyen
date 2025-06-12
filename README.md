@@ -32,13 +32,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=FFFFFF)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4298B8?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
 
