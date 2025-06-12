@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://www.dropbox.com/scl/fi/q8mrouj4exi9baycbbnui/Pngtree-tech-cool-poster-background_1091472.jpg?rlkey=ra8cedpw8t0xz9883fjqz57r4&st=3jqsx43d&dl=0" width="100%" alt="Welcome Banner" />
+  <img src="https://www.dropbox.com/home?preview=%E2%80%94Pngtree%E2%80%94tech+cool+poster+background_1091472.jpg" width="100%" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">🚀 Nguyen Que Tran — Aspiring Backend Developer 🔗</h1>
