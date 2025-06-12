@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Welcome Banner" />
+  <img src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://gifdb.com/gif/cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.html?embed=true)" width="100%" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">🚀 Nguyen Que Tran — Aspiring Backend Developer 🔗</h1>
