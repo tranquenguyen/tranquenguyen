@@ -61,7 +61,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin"/>
   </a>&nbsp;
   <a href="mailto:trannq2003@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-trannq2003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img alt="Mail" src="https://img.shields.io/badge/-trannq2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.github.com/tranquenguyen">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/>
@@ -70,4 +70,5 @@
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=social&logo=gitlab"/>
   </a>
 </p>
+
 
