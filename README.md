@@ -1,80 +1,147 @@
-<!-- BANNER / HEADER -->
-<p align="center">
-  <img src="https://your-cute-banner-url.gif" alt="banner" />
-</p>
+🚀 Nguyen Que Tran — Aspiring Backend Developer 🔗
 
-<h1 align="center">✨ Hi, I'm Que Tran ✨</h1>
 
-<p align="center">
-  <em>A multidimensional designer crafting pixel-perfect experiences with a punch of personality.</em>
-</p>
 
----
+Aspiring Backend Developer passionate about web technologies, distributed systems, and blockchain. I’ve worked with tools like ASP.NET Core, NestJS, and Hyperledger Fabric, but I believe mindset trumps tech. I’m driven to learn from mentors and build impactful, scalable solutions. Currently pursuing a BSc in Information Technology at Greenwich University (GPA: 3.95/4.0). 🌌
 
-### 🎨 About Me
-Hey there! I'm a designer who vibes with:
-- **UX/UI Design** 🧩
-- **Motion & Interaction** 🎥
-- **XR/Spatial Design** 🪐
-- **Design Systems** ⚙️
+📍 Can Tho, Vietnam
+🔍 Specialties: API Development, Blockchain Integration, Database Design
 
-I love blending aesthetics with accessibility, vibes with viability, and pixels with purpose.
 
----
 
-### 🧰 My Tools of Choice
+🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| 🖌️ Figma | Interface & Prototyping |
-| 🪄 Framer | Interactive & Animations |
-| 🍑 Blender | 3D Visuals |
-| 🐙 GitHub | DesignOps, Version Control |
-| 🧠 Notion | Docs, Moodboards, Workflows |
-| 📽️ After Effects | Motion Magic |
 
----
 
-### 🌟 Featured Work
 
-| Case Study | Link | Tags |
-|------------|------|------|
-| **Rebranding an Eco Startup** 🌿 | [View Project](https://yourportfolio.com/project1) | UX, Branding, UI |
-| **Mobile App for Creators** 📱 | [View Project](https://yourportfolio.com/project2) | UX/UI, Motion |
-| **AR Fashion Concept** 🕶️ | [View Project](https://yourportfolio.com/project3) | XR, Motion, Futurism |
 
----
+Languages: C#, TypeScript, Java, PHP, Golang
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
 
----
+Frameworks: ASP.NET Core, NestJS, Gin, Hyperledger Fabric
 
-### 🧪 Currently Designing 💻
 
-- 🌈 A **custom emoji system** for queer digital spaces  
-- ✨ An **AI moodboard generator** with aesthetic filters  
-- 🔮 A **futuristic AR UI kit** for XR devs  
-- 👾 Personal project: *pixel-perfect brutalist dashboard UI*
 
----
+Databases: SQL Server, MySQL, PostgreSQL, CouchDB
 
-### 🔗 Connect With Me
 
-- 🖼️ [Portfolio](https://yourportfolio.com)  
-- 🎨 [Behance](https://behance.net/yourprofile)  
-- 💖 [Dribbble](https://dribbble.com/yourprofile)  
-- 💌 [Email](mailto:you@example.com)
 
----
+Tools: Swagger (API), Git, Docker, Postman
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
-  <br>
-  <em>“Design isn’t just how it looks — it’s how it *feels*.”</em>
-</p>
+
+
+
+
+📚 Projects
+
+
+
+
+
+Agrinexus: Agriculture Management System 🌱
+Feb 2025 - Jun 2025 | MobiFone Corporation
+A platform for farmers to optimize crop care with data-driven insights. Designed database structure and built 9 modules (e.g., Land Plots, Crop Seasons) using NestJS and MySQL.
+View Repo
+
+
+
+
+
+
+Vaccine Chain 🔒
+3 months, 2024 | Individual Project
+A blockchain-IoT web app for vaccine tracking. Developed APIs with ASP.NET Core and Express.js, integrating Hyperledger Fabric and CouchDB (on-chain) with SQL Server (off-chain).
+View Repos
+
+
+
+
+
+
+Book Store: Online Book Emporium 📚
+2 months, 2023 | Team Project
+A 4-layer e-commerce platform with role-based access. Implemented customer features and admin charts using ASP.NET MVC, SQL Server, and Bootstrap.
+View Repo
+
+
+
+
+
+
+💻 Currently Working On
+
+
+
+
+
+Agritech APIs 🌾 — Enhancing NestJS APIs with TypeORM for real-time crop data processing.
+
+
+
+Blockchain Visualizer 🔍 — Building a Hyperledger Fabric tool to visualize supply chain transactions.
+
+
+
+Microservices Lab 🧩 — Experimenting with Golang and Docker for scalable microservices.
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+
+
+
+🔗 Connect
+
+
+
+
+
+Portfolio: tranque.dev
+
+
+
+GitHub: github.com/QueTranNguyen
+
+
+
+Email: tranq2003@gmail.com
+
+
+
+LinkedIn: linkedin.com/in/nguyenquetran
+
+
+
+
+
+🏆 Achievements
+
+
+
+
+
+2022: Top 3 Student (Summer), Best English GEC2206 Class
+
+
+
+2023: Top 3 Student (Spring, Summer, Fall)
+
+
+
+2024: FPT Hackathon 2025 Semifinalist
+
+
+
+Certifications: Java Data Structures & Algorithms, Hyperledger Fabric on Kubernetes
+
+🌃 Let’s code scalable, impactful systems!
