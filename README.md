@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Tran</h1>
 Aspiring Backend Developer with a solid foundation in web technologies and distributed systems. While I have experience with tools like ASP.NET Core and Hyperledger Fabric, I believe technology stacks are secondary to mindset. What matters most to me is the chance to learn from experienced mentors and contribute to meaningful projects with long-term impact.
 
-## About Me
 
+## About Me
 - 🧠 **Aspiring Backend Developer**
 - 🎓 **BSc in Information Technology, Greenwich University** (GPA: 3.95/4.0)
 - 🗺️ **Location:** Can Tho, Vietnam  
@@ -15,8 +15,8 @@ Aspiring Backend Developer with a solid foundation in web technologies and distr
 - 💬 Growth mindset & always learning from mentors
 - 🛠️ **Skilled in:** NestJs, Hyperledger Fabric
 
-## Tech
 
+## Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
