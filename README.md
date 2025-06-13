@@ -4,8 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tran</h1>
-
 Aspiring Backend Developer with a solid foundation in web technologies and distributed systems. While I have experience with tools like ASP.NET Core and Hyperledger Fabric, I believe technology stacks are secondary to mindset. What matters most to me is the chance to learn from experienced mentors and contribute to meaningful projects with long-term impact.
+
+
 
 
 ## About Me
