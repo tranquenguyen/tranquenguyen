@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tranquenguyen/tranquenguyen/blob/main/about-me.png" width="100%" alt="Welcome Banner" />
+  <img src="https://raw.githubusercontent.com/tranquenguyen/tranquenguyen/main/about-me.png" width="100%" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tran</h1>
