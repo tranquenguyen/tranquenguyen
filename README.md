@@ -15,7 +15,7 @@ Aspiring Backend Developer with a solid foundation in web technologies and distr
 - 🗺️ **Location:** Can Tho, Vietnam  
 - 🧩 **Specialties:** API Development, Blockchain Integration, Database Design  
 - 💬 Growth mindset & always learning from mentors
-- 🛠️ **Skilled in:** NestJs, Hyperledger Fabric
+- 🛠️ **Skilled in:** NestJs, .NET, Hyperledger Fabric
 
 
 ## Tech
